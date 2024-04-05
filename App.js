@@ -1,5 +1,4 @@
-import { StatusBar } from 'expo-status-bar';
-import { View, TextInput, Pressable } from 'react-native';
+import { View} from 'react-native';
 
 //Componentes Pages
 import Home from './src/components/pages/Home';

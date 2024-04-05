@@ -1,5 +1,5 @@
 import { Text } from "react-native";
 
-export default function Textos({ styles, mensagem }) {
-  return <Text style={styles}>{mensagem}</Text>;
+export default function Textos({ styles, txt }) {
+  return <Text style={styles}>{txt}</Text>;
 }
